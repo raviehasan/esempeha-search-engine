@@ -8,9 +8,6 @@ An advanced information retrieval system specialized for scientific facts, built
 2. Ravie Hasan Abud (2206031864)
 3. Steven Faustin Orginata (2206030855)
 
-### Deployment
-Link Deployment: [https://esempeha-search.com](https://tart-honor-abbilville-e18670b6.koyeb.app/)
-
 ---
 
 ## Project Overview
