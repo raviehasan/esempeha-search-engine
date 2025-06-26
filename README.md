@@ -80,8 +80,8 @@ The system consists of several key components:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Abbilville/esempeha-se TK
-cd TK
+https://github.com/raviehasan/esempeha-search-engine
+cd esempeha-search-engine
 ```
 
 ### 2. Set Up Environment
