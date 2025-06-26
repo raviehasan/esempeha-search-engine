@@ -2,11 +2,11 @@
 
 An advanced information retrieval system specialized for scientific facts, built with Django and OpenSearch.
 
-## Team: ESEMPEHA
-### Members:
-1. Abbilhaidar Farras Zulfikar (2206026012)
-2. Ravie Hasan Abud (2206031864)
-3. Steven Faustin Orginata (2206030855)
+## Team Name: ESEMPEHA
+### Contributors:
+- Abbilhaidar Farras Zulfikar
+- Ravie Hasan Abud
+- Steven Faustin Orginata
 
 ---
 
